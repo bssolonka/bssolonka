@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bssolonka
-- 👀 I’m interested in working on Java, Javascript, and Python projects
-- 💞️ I’m looking to collaborate on website design and meaningful programs being built.
-- 📫 You can reach me at bssolonka@gmail.com
+- 👀 I’m interested in working on project for security tools.
+- 💞️ I’m looking to collaborate on building tools to aid in PenTesting.
+- 📫 You can reach me at darkVip3r@protonmail.com
 
 <!---
 bssolonka/bssolonka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
